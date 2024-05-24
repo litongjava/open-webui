@@ -486,31 +486,28 @@ DEFAULT_PROMPT_SUGGESTIONS = PersistentConfig(
     "ui.prompt_suggestions",
     [
         {
-            "title": ["Help me study", "vocabulary for a college entrance exam"],
-            "content": "Help me study vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option.",
+            "title": ["Help me find", "ICS courses for Fall 2024 at Kap College"],
+            "content": "Please help me find the detailed information of ICS courses for Fall 2024 at Kap College.",
         },
         {
-            "title": ["Give me ideas", "for what to do with my kids' art"],
-            "content": "What are 5 creative things I could do with my kids' art? I don't want to throw them away, but it's also so much clutter.",
+            "title": ["Tell me", "the number of ICS-related courses in Fall 2024 at KAP College"],
+            "content": "Please tell me how many ICS-related courses there are in Fall 2024 at KAP College.",
         },
         {
-            "title": ["Tell me a fun fact", "about the Roman Empire"],
-            "content": "Tell me a random fun fact about the Roman Empire",
+            "title": ["Show course details", "for LAW 101 in Fall 2024 at Kap College"],
+            "content": "Please show the detailed information for the LAW 101 course in Fall 2024 at Kap College, including the instructor, time, and room.",
         },
         {
-            "title": ["Show me a code snippet", "of a website's sticky header"],
-            "content": "Show me a code snippet of a website's sticky header in CSS and JavaScript.",
+            "title": ["Show sections", "of ENG courses for Fall 2024 at Kap College"],
+            "content": "Please show all sections and time schedules for the ENG 100 course in Fall 2024 at Kap College.",
         },
         {
-            "title": [
-                "Explain options trading",
-                "if I'm familiar with buying and selling stocks",
-            ],
-            "content": "Explain options trading in simple terms if I'm familiar with buying and selling stocks.",
+            "title": ["Check seat availability", "for ICS 101 course in Fall 2024 at Kap College"],
+            "content": "Please tell me the current enrolled number and available seats for ICS 101 course in Fall 2024 at Kap College.",
         },
         {
-            "title": ["Overcome procrastination", "give me tips"],
-            "content": "Could you start by asking me about instances when I procrastinate the most and then give me some suggestions to overcome it?",
+            "title": ["Show course remarks", "for LAW 101 in Fall 2024 at Kap College"],
+            "content": "Please show all course remarks for LAW 101 in Fall 2024 at Kap College, including textbook requirements and prerequisites.",
         },
     ],
 )
